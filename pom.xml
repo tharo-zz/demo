@@ -21,6 +21,24 @@
             <artifactId>playwright</artifactId>
             <version>1.38.0</version>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.10.0</version>
+            <scope>test</scope>
+        </dependency>
+>>>>>>> 1322eee59bceb4c4c3a05c418715e68827da7ec3
     </dependencies>
 
 </project>
