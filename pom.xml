@@ -21,8 +21,6 @@
             <artifactId>playwright</artifactId>
             <version>1.38.0</version>
         </dependency>
-<<<<<<< HEAD
-=======
 
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
@@ -38,7 +36,6 @@
             <version>5.10.0</version>
             <scope>test</scope>
         </dependency>
->>>>>>> 1322eee59bceb4c4c3a05c418715e68827da7ec3
     </dependencies>
 
 </project>
